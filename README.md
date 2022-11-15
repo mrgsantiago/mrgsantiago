@@ -28,7 +28,7 @@ class Mrg_santiago:
       },
       "databases": ["PostgreSQL", "MySQL", "SQLite"],
       "languages": ["Python", "SQL", "HTML", "CSS"],
-      "IDE": ["PyCharm", "Visual Studio Code", "Visual Studio"]
+      "IDE": ["PyCharm", "Visual Studio Code", "Visual Studio"],
       "others": ["Jira", "YouTrack", "Git", "CI/CD"]
     }
 ```
