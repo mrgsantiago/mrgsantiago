@@ -5,7 +5,7 @@
 
 <img align="right" width="350" src="https://img.freepik.com/premium-vector/people-catching-bugs-quality-assurance-team-work-big-qa-letters_126608-58.jpg"/>
   
-  ## <img src="assets/cat.gif" width="50"> QA Engineer 
+## <img src="assets/cat.gif" width="50"> QA Engineer 
 
 - 💞️ Изучаю QA Automation
 
@@ -15,7 +15,7 @@
 
 
 
-### <img src="assets/cat.gif" width="50"> Блок обо мне
+## <img src="assets/cat.gif" width="50"> Блок обо мне
 
 ```py
 class Mrg_santiago:
@@ -33,7 +33,7 @@ class Mrg_santiago:
     }
 ```
 
-### <img src="assets/cat.gif" width="50"> Блок с умной фразой
+## <img src="assets/cat.gif" width="50"> Блок с умной фразой
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula&quote=If%20you%20want%20to%20be%20somebody,%20somebody%20really%20special,%20be%20yourself)](https://github.com/piyushsuthar/github-readme-quotes)
 
