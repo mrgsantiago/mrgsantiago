@@ -26,7 +26,7 @@ class Mrg_santiago:
         "TMS": ["TestRail", "Qase.io"],
         "others": ["Postman", "Charles", "DevTools"]
       },
-      "databases": ["PostgreSQL", "MySQL", "SQLite"],
+      "databases": ["PostgreSQL", "MS SQL Server", "SQLite"],
       "languages": ["Python", "SQL", "HTML", "CSS"],
       "IDE": ["PyCharm", "Visual Studio Code", "Visual Studio"],
       "others": ["Jira", "YouTrack", "Git"]
